@@ -1,0 +1,1 @@
+# Headers of SDL2 for windows platform
